@@ -48,22 +48,22 @@ L’objectif principal était de mettre en place un système **d’authentificat
 Les captures d’écran du projet se trouvent dans le dossier suivant :
 
 ```
-/screenshots
+/screenshot
 ```
 
 Aperçu des écrans :
 
-  ![Image 1](screenshots/1.png)
+![Image 1](screenshot/1.png)
 
-  ![Image 2](screenshots/2.png)
+![Image 2](screenshot/2.png)
 
-  ![Image 3](screenshots/3.png)
+![Image 3](screenshot/3.png)
 
-  ![Image 4](screenshots/4.png)
+![Image 4](screenshot/4.png)
 
-  ![Image 5](screenshots/5.png)
+![Image 5](screenshot/5.png)
 
-  ![Image 6](screenshots/6.png)
+![Image 6](screenshot/6.png)
 
 ---
 
